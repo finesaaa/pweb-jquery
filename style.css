@@ -1,0 +1,29 @@
+body {
+    background-image: url('./bg.jpg');
+    background-size: cover;
+    font-family: "Inter", sans-serif;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    margin-top: 10%;
+}
+
+.btn,
+.form-control {
+    padding: 8px;
+    font-family: "Inter", sans-serif;
+}
+
+.form-inline {
+    padding: 8px;
+    margin-bottom: 4px;
+}
+
+.btn {
+    padding-top: 16px;
+    text-transform: uppercase;
+}
