@@ -1,7 +1,15 @@
 body {
+    font-family: "Inter", sans-serif;
+}
+
+.book-bg {
     background-image: url('./bg.jpg');
     background-size: cover;
-    font-family: "Inter", sans-serif;
+}
+
+.its-bg {
+    background-image: url('./bg-its.jpg');
+    background-size: cover;
 }
 
 * {
@@ -26,4 +34,10 @@ body {
 .btn {
     padding-top: 16px;
     text-transform: uppercase;
+}
+
+.error {
+    color: red;
+    font-size: small;
+    font-family: "Inter", sans-serif;
 }
