@@ -10,6 +10,8 @@ body {
 .its-bg {
     background-image: url('./bg-its.jpg');
     background-size: cover;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
 * {
